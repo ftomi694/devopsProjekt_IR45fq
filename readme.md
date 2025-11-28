@@ -1,3 +1,5 @@
+GITHUB link: https://github.com/ftomi694/devopsProjekt_IR45fq.git
+
 Build docker nélkül:
 Windowosn build.bat linuxon build.sh
 VAGY
